@@ -1,22 +1,22 @@
-# Skills Collection
+# Skills 收藏库
 
-This repository stores generated Codex Skill packages. Each folder is a standalone skill with its own `SKILL.md`, references, optional templates, scripts, and assets.
+这个仓库用于存放已经炼化完成的 Codex Skill 包。每个文件夹都是一个独立 Skill，通常包含 `SKILL.md`、`references/`、`optional-templates/`、`scripts/` 和 `assets/`。
 
-## Skills
+## Skill 列表
 
 ### emotional-intelligence-influence-coach
 
-Practical coaching for emotionally charged communication, conflict handling, feedback, refusal, persuasion, customer appeasement, leadership influence, collaboration, and relationship dialogue. It focuses on self-awareness, emotional regulation, empathy, boundaries, and ethical influence.
+情商与影响力沟通教练。适用于高情绪沟通、冲突处理、反馈、拒绝、说服、客户安抚、领导力影响、协作推进和关系对话等场景。重点是自我觉察、情绪调节、同理心、边界表达和非操控式影响力。
 
 ### personal-finance-cashflow-coach
 
-Personal finance and cashflow coaching for mapping income and expenses, distinguishing assets from liabilities, evaluating purchases, debt, investment, side-hustle choices, and building financial-literacy action plans. It is educational and avoids tax, legal, securities, lending, or guaranteed-return advice.
+个人财务与现金流教练。适用于梳理收入支出、区分资产和负债、评估消费/债务/投资/副业选择，以及制定财商行动计划。定位是教育性分析，不提供税务、法律、证券、贷款或收益承诺类建议。
 
 ### rich-dad-financial-thinking
 
-Rich Dad Poor Dad style financial-literacy framework for personal finance decisions, asset/liability analysis, cashflow planning, business/investing mindset, and financial education. It is intended as an educational decision framework, not personalized financial, tax, legal, lending, real-estate, or securities advice.
+《富爸爸穷爸爸》风格的财商决策框架。适用于个人财务决策、资产/负债分析、现金流规划、商业与投资思维训练。它是教育性决策框架，不是个性化金融、税务、法律、贷款、房产或证券建议。
 
-## Typical Skill Structure
+## 常见目录结构
 
 ```text
 skill-name/
@@ -27,4 +27,4 @@ skill-name/
 └── assets/
 ```
 
-`SKILL.md` defines when and how the skill should be used. Files under `references/` contain deeper frameworks, checklists, examples, and guardrails.
+`SKILL.md` 定义这个 Skill 何时触发、如何工作、有哪些边界。`references/` 里放更详细的原则、框架、检查表、示例和风险护栏。
