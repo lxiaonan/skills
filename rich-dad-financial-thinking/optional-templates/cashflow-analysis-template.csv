@@ -1,0 +1,9 @@
+category,item,current_month,after_decision,change,notes
+income,after-tax income,,,,
+expense,fixed expenses,,,,
+expense,variable expenses,,,,
+debt,required payments,,,,
+asset,cashflowing assets,,,,
+buffer,emergency runway months,,,,
+scenario,worst-case income drop,,,,
+scenario,worst-case cost increase,,,,

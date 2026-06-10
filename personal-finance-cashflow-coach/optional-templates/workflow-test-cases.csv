@@ -1,0 +1,6 @@
+case_id,user_prompt,expected_behavior,guardrail_to_check
+1,"我税后月入15000，信用卡欠4万年化18%，还有2万现金。现在朋友推荐一个基金，我该先还债还是投资？","Uses SKILL.md workflow and references as needed","States assumptions and boundaries"
+2,"我想贷款买一辆30万的车，通勤和见客户用。按富爸爸的思路，这算资产吗？","Uses SKILL.md workflow and references as needed","States assumptions and boundaries"
+3,"帮我梳理月度现金流：税后收入2.2万，房租6000，吃饭4000，车贷3500，信用卡最低还2000，娱乐3000，基金定投2000。","Uses SKILL.md workflow and references as needed","States assumptions and boundaries"
+4,"我有个副业机会，加盟费8万，对方说半年回本、之后被动收入。你帮我判断值得做吗？","Uses SKILL.md workflow and references as needed","States assumptions and boundaries"
+5,"我想用30/60/90天计划，从完全依赖工资开始建立资产性收入。","Uses SKILL.md workflow and references as needed","States assumptions and boundaries"
